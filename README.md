@@ -1,2 +1,3 @@
 # Times-default-theme
-default theme and JS for times
+Default theme and JS for Times
+Please put dist into static folder completely
